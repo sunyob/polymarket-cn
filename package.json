@@ -14,7 +14,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
-    "next": "14.2.5",
+    "next": "^16.2.7",
     "postcss": "^8.4.40",
     "react": "^18",
     "react-dom": "^18",
